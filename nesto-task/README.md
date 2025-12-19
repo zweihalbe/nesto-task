@@ -33,7 +33,7 @@ oder bei Windows Skript mit Bash starten:
 bash ./run.sh
 ```
 
-##Notes
+## Notes
 
 - Das Skript installiert bei Bedarf automatisch alle Abhängigkeiten (npm install).
 - CLI-Ausgabe basiert auf src/cli.ts.
